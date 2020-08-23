@@ -1,0 +1,6 @@
+Number of elements in list,Time taken to sort (ms)
+5k,262
+10k,483
+15k,752
+20k,1095
+25k,1324

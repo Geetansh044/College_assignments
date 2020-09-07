@@ -1,0 +1,10 @@
+TV
+AC
+Car
+Mango
+Laptop
+Desktop
+Games
+Pepsi
+Router
+Tablet

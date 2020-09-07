@@ -1,0 +1,13 @@
+
+    TV 500
+    AC 600
+    Car 2000
+    Mango 1
+    Laptop 600
+    Car 5000
+    Desktop 200
+    Games 20
+    Pepsi 1
+    Router 10
+    Tablet 300
+    TV 550
